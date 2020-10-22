@@ -1,0 +1,29 @@
+{
+  "name": "table-one",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "dependencies": {},
+  "description": "Console Table Display library for nodejs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozlatior/table-one.git"
+  },
+  "keywords": [
+    "table",
+    "table formatting",
+    "console",
+    "table display"
+  ],
+  "author": "Octav Zlatior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozlatior/table-one/issues"
+  },
+  "homepage": "https://github.com/ozlatior/table-one#readme"
+}
