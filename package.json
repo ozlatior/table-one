@@ -4,7 +4,13 @@
   "scripts": {
     "test": "node ./test/test.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "colors": "*",
+    "util-one": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
   "description": "Console Table Display library for nodejs",
   "main": "index.js",
   "directories": {
